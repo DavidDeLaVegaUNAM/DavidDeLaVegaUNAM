@@ -5,6 +5,17 @@
 Soy un **entusiasta de la tecnología y la resolución de problemas**, con experiencia en programación, álgebra lineal y optimización. Actualmente, estoy trabajando en diversos proyectos relacionados con **redes complejas** (_Mi tesis_)
 
 ---
+### ⭐ Mis Estadísticas 
+
+<div align="center">
+<img alt="David's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DavidDeLaVegaUNAM&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDeLaVegaUNAM&layout=compact&&langs_count=8"/>
+</div>
+
+
+
+
+---
 
 ## 🛠 Habilidades técnicas
 
@@ -26,7 +37,7 @@ Si tienes algún proyecto interesante o una idea que quieras discutir, no dudes 
 
 ## 📫 Contáctame
 
-- **LinkedIn**: [David De La Vega]((https://www.linkedin.com/in/dvdvb/))
+[![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvdvb/) 
 
 ---
 

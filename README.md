@@ -37,7 +37,7 @@ Si tienes algún proyecto interesante o una idea que quieras discutir, no dudes 
 
 ## 📫 Contáctame
 
-[![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvdvb/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvdvb/) 
 
 ---
 
